@@ -1,0 +1,58 @@
+[	
+	{
+			"Gerard Butler": 
+					[
+						{"Title":"The ugly Truth"},
+						{"Director":"Robert Luketic"},
+						{"Year":"2009"}
+					]
+			"Jeff Bridges": 
+					[
+						{"Title":"The Big Lebowski"},
+						{"Director":"Joel Coen, Ethan Coel"},
+						{"Year":"1998"}
+					],
+			"Matthew McConaughey":
+					[
+						{"Title":"Gold"},
+						{"Director":"Stephen Gaghan"},
+						{"Year":"2017"}
+					],
+			"Robert De Niro":
+					[
+						{"Title":"The Intern"},
+						{"Director":"Nancy Meyers"},
+						{"Year":"2015"}
+					],
+			"Tom Hardy":
+					[
+						{"Title":"Venom"},
+						{"Director":"Ruben Fleischer"},
+						{"Year":"2018"}
+					],
+			"Denzel Washington":
+					[
+						{"Title":"The Book of Eli"},
+						{"Directors":"The Hughes Brothers"},
+						{"Year":"2010"}
+					],
+			"Owen Wilson":
+					[
+						{"Title":"Wedding crashers"},
+						{"Director":"David Dobkin"},
+						{"Year":"2005"}
+					],
+			"Javier Bardem":
+					[
+						{"Title":"Eat Pray Love"},
+						{"Director":"Ryan Murphy"},
+						{"Year":"2010"}
+					],
+			"Max Riemelt":
+					[
+						{"Title of series":"Sense8"},
+						{"Director":"Lana Wachowski, Lilly Wachowski, J.Michael Straczynski"},
+						{"Year":"2015-2018"}
+					]
+	}
+]
