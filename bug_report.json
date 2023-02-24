@@ -1,0 +1,15 @@
+[
+	{"ID":"7"},
+	{"Reporter":"KatyaZaha"},
+	{"Assignee":"KatyaZaha"},
+	{"Status":"Open"},
+	{"Type":"Functional"},
+	{"Severity":"Major"},
+	{"Priority":"High"},
+	{"Browser":"Firefox v.105"},
+	{"OS":"MacOS"},
+	{"OS version":"Monterey v.12.6"},
+	{"Summary":"By clicking on the logo there is a transition to a third-part site"},
+	{"":""},
+]	
+
