@@ -1,50 +1,42 @@
 [
-	{
-		"base theory":
-				[
-					{"testing documentation"},
-					{"types of testing"},
-					{"SDLC"},
-					{"STLC"}
-				],
-		"client-server architecture":
-					[
-						{"HTTP methods of server request"},
-						{"HTTP codes of answers"},
-						{"HTTP structure of requests and answers"},
-						{"JSON and XLM structure"},
-						{"collecting and reading logs from an external server"},
-						{"VPN"}
-					],
-		"Postman API testing": "JS, API autotests",
-		"sniffing of web traffic": "Charles, Fiddler",
-		"Dev tools": "Google Chrome, FireFox",
-		"Mobile testing": 
-					[
-						{"features of iOS"},
-						{"features of Android"},
-						{"guidelines"},
-						{"iOS application assembly with Xcode"},
-						{"Android app assembly with Android Studio"},
-						{"ADB"},
-						{"proxy and VPN for iOS and Android"},
-						{"sniffing of webtraffic on iOS and Android"}
-					],
-		"Linux terminal":
-					[
-						{"copying, creating, viewing and moving of files"},
-						{"bash scripting"},
-						{"access to remote servers"}
-					],
-		"SQL": "Create,Delete,Drop,Insert Into,SElect,From,Where,Join",
-		"Postgres": "installing, setting, using",
-		"Redis": "installing, setting, using",
-		"stress testing": "Jmeter",
-		"Scrum methodology":
-		"Phyton":
-					[
-						{"learning the basics"},
-						{"creating of client-server app"}
-					]
-	}
+  {
+    "base theory": [
+      "testing documentation",
+      "types of testing",
+      "SDLC",
+      "STLC"
+    ],
+    "client-server architecture": [
+      "HTTP methods of server request",
+      "HTTP codes of answers",
+      "HTTP structure of requests and answers",
+      "JSON and XLM structure",
+      "collecting and reading logs from an external server",
+      "VPN"
+    ],
+    "Postman API testing": "JS, API autotests",
+    "sniffing of web traffic": "Charles, Fiddler",
+    "Dev tools": "Google Chrome, FireFox",
+    "Mobile testing": [
+      "features of iOS",
+      "features of Android",
+      "guidelines",
+      "iOS application assembly with Xcode",
+      "Android app assembly with Android Studio",
+      "ADB",
+      "proxy and VPN for iOS and Android",
+      "sniffing of webtraffic on iOS and Android"
+    ],
+    "Linux terminal": [
+      "copying, creating, viewing and moving of files",
+      "bash scripting",
+      "access to remote servers"
+    ],
+    "SQL": "Create,Delete,Drop,Insert Into,SElect,From,Where,Join",
+    "Postgres": "installing, setting, using",
+    "Redis": "installing, setting, using",
+    "stress testing": "Jmeter",
+    "Scrum methodology": null,
+    "Phyton": ["learning the basics", "creating of client-server app"]
+  }
 ]
