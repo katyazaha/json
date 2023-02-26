@@ -1,27 +1,25 @@
-[
+{
+	"main_info":
 	{
-		"name":
-				[
+		"name": [
 					{"first name": "Kateryna"},
 					{"last name": "Zakharchenko"}
 				],
-		"address":
-				[
+		"address": [
 					{"city": "Alicante"},
 					{"country": "Spain"}
 				],
-		"devices":
-				[
+		"devices": [
 					{"mobile phone": "Iphone 13 Pro"},
 					{"laptop1": "HP Probook 4540s"},
 					{"laptop2": "MacBook Pro 2020 Intel Core i5"}
 				],
-		"certificates":
-				[
+		"certificates": [
 					{"Scratch from 0": "cert_8lrhvzz5"},
-					{"Oxford test of English B1": "2612980"},
+					{"Oxford test of English B1": "14680600"},
 					{"Administration of WEB services": "AC-2021-234"},
-					{"Quality Assurance Manual":"QA_11171"}
+					{"Quality Assurance Manual": "QA_11171"}
 				]
-	}
-]
+		}
+}
+
