@@ -2,8 +2,8 @@
 	"main_info":
 	{
 		"name": [
-					{"first name": "Kateryna"},
-					{"last name": "Zakharchenko"}
+					{"first_name": "Kateryna"},
+					{"nick_name": "KatyaZaha"}
 				],
 		"address": [
 					{"city": "Alicante"},
