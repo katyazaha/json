@@ -1,7 +1,7 @@
 {
   "skills": [
     {
-     "base theory": [
+     "Base theory": [
         {
          "theme_1": "testing documentation",
          "theme_2": "types of testing",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "client-server architecture": [
+      "Client-server architecture": [
         {
           "theme_5": "HTTP methods of server request",
           "theme_6": "HTTP codes of answers",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "sniffing of web traffic": [
+      "Sniffing of web traffic": [
         {
           "theme_13": "Charles",
           "theme_14": "Fiddler"
