@@ -1,82 +1,89 @@
 {
-	"actors": [
-	        {
-		    	"Gerard Butler": [
-                     {
-			            "title": "The ugly Truth",
-            	        "director": "Robert Luketic",
-            	        "year": 2009
-			        },
-			        {
-				        "title": "RocknRolla",
-				        "director": "Guy Ritchie",
-				        "year": 2004
-			        }
-			    ]	
-		    },
-            {
-                "Jeff Bridges":[
-                    {
-                        "title": "The Big Lebowski",
-                        "director": "Joel Coen, Ethan Coel",
-                        "year": 1998
-                    }
-                ]
-            },
-            {
-                "Owen Wilson":[
-                    {
-                        "title": "Wedding crashers",
-                        "director": "David Dobkin",
-                        "year": 2005
-                    }
-                ]
-            },
-            {
-                "Denzel Washington":[
-                    {
-                        "title": "The Book of Eli",
-                        "director": "The Hughes Brothers",
-                        "year": 2010
-                    }
-                ]
-            },
-            {
-                "Matthew McConaughey":[
-                    {
-                        "title": "Gold",
-                        "director": "Stephen Gaghan",
-                        "year": 2017
-                    }
-                ]
-            },
-            {
-                "Javier Bardem":[
-                    {
-                        "title": "Eat Pray Love",
-                        "director": "Ryan Murphy",
-                        "year": 2010
-                    }
-                ]
-            },
-            {
-                "Max Riemelt":[
-                    {
-                        "title": "Sense8",
-                        "director": "Lana Wachowski, Lilly Wachowski, J.Michael Straczynski",
-                        "year": "2015-2018"
-                    }
-                ]
-            },
-            {
-                "Robert De Niro":[
-                    {
-                        "title": "Intern",
-                        "director": "Nancy Meyers",
-                        "year": 2015
-                    }
-                ]
-            }
-
-]
+  "actors": [
+    {
+      "name": "Gerard Butler", 
+      "movies": [
+        {
+          "title": "The ugly Truth",
+          "director": "Robert Luketic",
+          "year": 2009
+        },
+        {
+          "title": "RocknRolla",
+          "director": "Guy Ritchie",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "name": "Jeff Bridges",
+      "movies": [
+        {
+          "title": "The Big Lebowski",
+          "director": "Joel Coen, Ethan Coel",
+          "year": 1998
+        }
+      ]
+    },
+    {
+      "name": "Owen Wilson",
+      "movies": [
+        {
+          "title": "Wedding crashers",
+          "director": "David Dobkin",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "name": "Denzel Washington",
+      "movies": [
+        {
+          "title": "The Book of Eli",
+          "director": "The Hughes Brothers",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "name": "Matthew McConaughey",
+      "movies": [
+        {
+          "title": "Gold",
+          "director": "Stephen Gaghan",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "name": "Javier Bardem",
+      "movies": [
+        {
+          "title": "Eat Pray Love",
+          "director": "Ryan Murphy",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "name": "Max Riemelt",
+      "movies": [
+        {
+          "title": "Sense8",
+          "director": "Lana Wachowski, Lilly Wachowski, J.Michael Straczynski",
+          "year": "2015-2018"
+        }
+      ]
+    },
+    {
+      "name": "Robert De Niro",
+      "movies": [
+        {
+          "title": "Intern",
+          "director": "Nancy Meyers",
+          "year": 2015
+        }
+      ]
+    }
+  ]
 }
