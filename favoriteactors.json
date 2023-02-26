@@ -1,67 +1,82 @@
 {
 	"actors": [
 	        {
-			"Gerard Butler": [
-                                {
-			                "title": "The ugly Truth",
-            	                        "director": Robert Luketic,
-            	                        "year": 2009
+		    	"Gerard Butler": [
+                     {
+			            "title": "The ugly Truth",
+            	        "director": "Robert Luketic",
+            	        "year": 2009
 			        },
 			        {
 				        "title": "RocknRolla",
-				        "director": Guy Ritchie,
+				        "director": "Guy Ritchie",
 				        "year": 2004
 			        }
-			]	
-		}
+			    ]	
+		    },
+            {
+                "Jeff Bridges":[
+                    {
+                        "title": "The Big Lebowski",
+                        "director": "Joel Coen, Ethan Coel",
+                        "year": 1998
+                    }
+                ]
+            },
+            {
+                "Owen Wilson":[
+                    {
+                        "title": "Wedding crashers",
+                        "director": "David Dobkin",
+                        "year": 2005
+                    }
+                ]
+            },
+            {
+                "Denzel Washington":[
+                    {
+                        "title": "The Book of Eli",
+                        "director": "The Hughes Brothers",
+                        "year": 2010
+                    }
+                ]
+            },
+            {
+                "Matthew McConaughey":[
+                    {
+                        "title": "Gold",
+                        "director": "Stephen Gaghan",
+                        "year": 2017
+                    }
+                ]
+            },
+            {
+                "Javier Bardem":[
+                    {
+                        "title": "Eat Pray Love",
+                        "director": "Ryan Murphy",
+                        "year": 2010
+                    }
+                ]
+            },
+            {
+                "Max Riemelt":[
+                    {
+                        "title": "Sense8",
+                        "director": "Lana Wachowski, Lilly Wachowski, J.Michael Straczynski",
+                        "year": "2015-2018"
+                    }
+                ]
+            },
+            {
+                "Robert De Niro":[
+                    {
+                        "title": "Intern",
+                        "director": "Nancy Meyers",
+                        "year": 2015
+                    }
+                ]
+            }
 
-
-
-
-        ]
+]
 }
-
-						
-                        "Jeff Bridges":
-                                        
-                                                {"Title":"The Big Lebowski"},
-                                                {"Director":"Joel Coen, Ethan Coel"},
-                                                {"Year":"1998"}
-                                    
-                        "Matthew McConaughey":
-                                        
-                                                {"Title":"Gold"},
-                                                {"Director":"Stephen Gaghan"},
-                                                {"Year":"2017"}
-                                        ,
-                        "Robert De Niro":
-                                        
-
-                        "Denzel Washington":
-                                        
-                                                {"Title":"The Book of Eli"},
-                                                {"Directors":"The Hughes Brothers"},
-                                                {"Year":"2010"}
-                                        ,
-                        "Owen Wilson":
-                                        
-                                                {"Title":"Wedding crashers"},
-                                                {"Director":"David Dobkin"},
-                                                {"Year":"2005"}
-                                        ,
-                        "Javier Bardem":
-                                        
-                                                {"Title":"Eat Pray Love"},
-                                                {"Director":"Ryan Murphy"},
-                                                {"Year":"2010"}
-                                        ,
-                        "Max Riemelt":
-                                        
-                                                {"Title of series":"Sense8"},
-                                                {"Director":"Lana Wachowski, Lilly Wachowski, J.Michael Straczynski"},
-                                                {"Year":"2015-2018"}
-                                        
-				]
-}
-
-
