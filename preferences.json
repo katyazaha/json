@@ -104,6 +104,16 @@
           "year": 1996
         }
       ]
+    },
+    {
+      "name": "Brendan Fraser",
+      "movies": [
+        {
+          "title": "The Whale",
+          "director": "Darren Aronofsky",
+          "year": "2022"
+        }
+      ]
     }
   ]
 }
